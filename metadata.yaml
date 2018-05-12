@@ -1,0 +1,87 @@
+_repo: An-Inquiry-into-the-Permanent-Causes-of-the-Decline-and-Fall-of-Powerful-and-Wealthy-Nations.__16575
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Playfair, William
+    birthdate: 1759
+    deathdate: 1823
+    gutenberg_agent_id: '6802'
+    url: http://www.gutenberg.org/2009/agents/6802
+    wikipedia: http://en.wikipedia.org/wiki/William_Playfair
+description: "The History of the Decline and Fall of the Roman Empire is a six-volume\
+  \ work by the English historian Edward Gibbon. It traces Western civilization (as\
+  \ well as the Islamic and Mongolian conquests) from the height of the Roman Empire\
+  \ to the fall of Byzantium. Volume I was published in 1776 and went through six\
+  \ printings. Volumes II and III were published in 1781; volumes IV, V, and VI in\
+  \ 1788–1789. The original volumes were published in quarto sections, a common publishing\
+  \ practice of the time. The work covers the history, from 98 to 1590, of the Roman\
+  \ Empire, the history of early Christianity and then of the Roman State Church,\
+  \ and the history of Europe, and discusses the decline of the Roman Empire in the\
+  \ East and West. Because of its heavy use of primary sources, unusual at the time,\
+  \ its methodology became a model for later historians. This led to Gibbon's being\
+  \ called the first \"modern historian of ancient Rome\". His work remains a great\
+  \ literary achievement and a very readable introduction to the period, but considerable\
+  \ progress has since been made in history and archaeology, and his interpretations\
+  \ no longer represent current academic knowledge or thought. In The World of Late\
+  \ Antiquity (1971), Peter Brown offers an alternative interpretation of the period\
+  \ between the second and eighth centuries AD, and Framing the Early Middle Ages\
+  \ (2005) by Christopher Wickham presents hitherto unavailable evidence from both\
+  \ documentary and archaeological sources.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16575'
+  wikidata: Q313030
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcc 'HC'
+- !lcsh 'Great Britain -- Economic conditions'
+- !lcsh 'History -- Philosophy'
+title: 'An Inquiry into the Permanent Causes of the Decline and Fall of Powerful and
+  Wealthy Nations.
+
+  Designed To Shew How The Prosperity Of The British Empire
+
+  May Be Prolonged'
+url: http://www.gutenberg.org/ebooks/16575
+wikipedia:
+- https://eo.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AD%D8%B7%D8%A7%D8%B7_%D9%88_%D8%B3%D9%82%D9%88%D8%B7_%D8%A7%D9%85%D9%BE%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%DB%8C_%D8%B1%D9%88%D9%85
+- https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_suy_t%C3%A0n_v%C3%A0_s%E1%BB%A5p_%C4%91%E1%BB%95_c%E1%BB%A7a_%C4%90%E1%BA%BF_qu%E1%BB%91c_La_M%C3%A3
+- https://en.wikisource.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://commons.wikimedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://uk.wikipedia.org/wiki/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F_%D0%B7%D0%B0%D0%BD%D0%B5%D0%BF%D0%B0%D0%B4%D1%83_%D1%82%D0%B0_%D0%B7%D0%B0%D0%B3%D0%B8%D0%B1%D0%B5%D0%BB%D1%96_%D0%A0%D0%B8%D0%BC%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D1%96%D0%BC%D0%BF%D0%B5%D1%80%D1%96%D1%97
+- https://it.wikisource.org/wiki/Storia_della_decadenza_e_rovina_dell%27Impero_romano
+- https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%9E%E5%B8%9D%E5%9B%BD%E8%A1%B0%E4%BA%A1%E5%8F%B2
+- https://pt.wikipedia.org/wiki/A_Hist%C3%B3ria_do_Decl%C3%ADnio_e_Queda_do_Imp%C3%A9rio_Romano
+- https://es.wikipedia.org/wiki/Historia_de_la_decadencia_y_ca%C3%ADda_del_Imperio_romano
+- https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%83%D0%BF%D0%B0%D0%B4%D0%BA%D0%B0_%D0%B8_%D1%80%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8
+- https://ko.wikipedia.org/wiki/%EB%A1%9C%EB%A7%88_%EC%A0%9C%EA%B5%AD_%EC%87%A0%EB%A7%9D%EC%82%AC
+- https://et.wikipedia.org/wiki/Rooma_impeeriumi_allak%C3%A4igu_ja_languse_ajalugu
+- https://fr.wikipedia.org/wiki/Histoire_de_la_d%C3%A9cadence_et_de_la_chute_de_l%27Empire_romain
+- https://zh.wikipedia.org/wiki/%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%E8%A1%B0%E4%BA%A1%E5%8F%B2
+- https://pl.wikipedia.org/wiki/Zmierzch_Cesarstwa_Rzymskiego
+- https://simple.wikipedia.org/wiki/The_Decline_and_Fall_of_the_Roman_Empire
+- https://ar.wikipedia.org/wiki/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%B6%D8%B9%D9%81_%D9%88%D8%B3%D9%82%D9%88%D8%B7_%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%D8%A9
+- https://nl.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://id.wikipedia.org/wiki/Sejarah_Kemunduran_dan_Kejatuhan_Kekaisaran_Romawi
+- https://en.wikiquote.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://de.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://ur.wikipedia.org/wiki/%D8%A7%D9%86%D8%AD%D8%B7%D8%A7%D8%B7_%D9%88_%D8%B2%D9%88%D8%A7%D9%84_%D8%B3%D9%84%D8%B7%D9%86%D8%AA_%D8%B1%D9%88%D9%85%D8%A7
+- https://ml.wikipedia.org/wiki/%E0%B4%A1%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%B2%E0%B5%88%E0%B5%BB_%E0%B4%86%E0%B5%BB%E0%B4%A1%E0%B5%8D_%E0%B4%AB%E0%B4%BE%E0%B5%BE_%E0%B4%93%E0%B4%AB%E0%B5%8D_%E0%B4%A6_%E0%B4%B1%E0%B5%8B%E0%B4%AE%E0%B5%BB_%E0%B4%8E%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B4%AF%E0%B5%BC
+- https://bg.wikipedia.org/wiki/%D0%97%D0%B0%D0%BB%D0%B5%D0%B7_%D0%B8_%D1%83%D0%BF%D0%B0%D0%B4%D1%8A%D0%BA_%D0%BD%D0%B0_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F
+- https://it.wikipedia.org/wiki/Declino_e_caduta_dell%27impero_romano
+- https://br.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://la.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://ca.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire
+- https://lfn.wikipedia.org/wiki/La_Istoria_de_la_Declina_e_Cade_de_la_Impero_Roman
+- https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu%27nun_Gerileyi%C5%9F_ve_%C3%87%C3%B6k%C3%BC%C5%9F_Tarihi
+- https://he.wikipedia.org/wiki/%D7%A9%D7%A7%D7%99%D7%A2%D7%AA%D7%94_%D7%95%D7%A0%D7%A4%D7%99%D7%9C%D7%AA%D7%94_%D7%A9%D7%9C_%D7%94%D7%A7%D7%99%D7%A1%D7%A8%D7%95%D7%AA_%D7%94%D7%A8%D7%95%D7%9E%D7%90%D7%99%D7%AA
